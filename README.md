@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 
 - 🔭 I’m currently working on **amazon-clone**
-- Checkout my portfolio website. **Link**-<a href="https://arushiguptaportfolio.netlify.app/"> jdnjd</a>
+- Checkout my portfolio website. **Link**-<a href="https://arushiguptaportfolio.netlify.app/"> MyPortfolio:)</a>
 
 - 🌱 I’m currently learning **to master ReactJS**
 
