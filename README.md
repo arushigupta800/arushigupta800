@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 
 - 🔭 I’m currently working on **amazon-clone**
+jkdnkjjdnkjnd
 
 - 🌱 I’m currently learning **to master ReactJS**
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **arushigupta800@yahoo.com**
 
-- ⚡ Fun fact **I like to cook and eat. Also I can't stop procastinating.**
+- ⚡ Fun fact **I like to cook and have a instagram cooking page "the_foodie__guptas"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
